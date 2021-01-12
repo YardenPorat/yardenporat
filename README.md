@@ -24,12 +24,21 @@ I am a passionate and enthusiastic self-taught web developer.
 
 ```javascript
 const yardenporat = {
-  education: [ 'MBA - Tel Aviv University', 'BA - IDC Herzliya']
+  education: ['MBA - Tel Aviv University', 'BA - IDC Herzliya'],
   otherAlias: 'Full Stack Developer',
-  FrontEnd: [ 'Javascript', 'TypeScript', 'React', 'HTML', 'CSS'],
-  BackEnd:[ 'Node.js', 'Python', 'Bash'],
+  FrontEnd: ['Javascript', 'TypeScript', 'React', 'HTML', 'CSS'],
+  BackEnd: ['Node.js', 'Python', 'Bash'],
   DBs: ['MongoDB', 'SQL'],
-  tools: [ 'React', 'Redux', 'TypeScript', 'Git', 'Sass', 'Wordpress', 'Bootstrap', 'Figma' ],
+  tools: [
+    'React',
+    'Redux',
+    'TypeScript',
+    'Git',
+    'Sass',
+    'Wordpress',
+    'Bootstrap',
+    'Figma',
+  ],
 };
 ```
 
