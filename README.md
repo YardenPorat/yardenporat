@@ -5,7 +5,7 @@
 I am a passionate and enthusiastic self-taught web developer.
 </h3>
 
-<a target="_blank" href="https://linkedin.com/in/yardenporat/">
+<a target="_blank" href="https://linkedin.com/in/yarden-porat/">
 <img src="https://img.shields.io/badge/-yardenporat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yardenporat/" alt="Linkedin Badge">
 </a>
 
