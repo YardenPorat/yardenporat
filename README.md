@@ -25,7 +25,7 @@ const yardenporat = {
   education: ['MBA - Tel Aviv University', 'BA - IDC Herzliya'],
   languages: ['TypeScript', 'Javascript', 'Python', 'Bash Scripts'],
   frameworks: ['Node.js', 'React.js', 'Next.js'],
-  css: [ 'HTML', 'CSS', 'Sass', 'Stylable'],
+  css: ['CSS', 'Sass', 'Stylable'],
   tests: ['playwright', 'mocha', 'chai', 'sinon'],
   DBs: ['MongoDB', 'SQL'],
   tools: [
