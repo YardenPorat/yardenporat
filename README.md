@@ -9,9 +9,7 @@ I am a passionate and enthusiastic self-taught web developer.
 <img src="https://img.shields.io/badge/-yardenporat-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yardenporat/" alt="Linkedin Badge">
 </a>
 
-<a target="_blank" href="https://instagram.com/yardenporat/">
-<img src="https://img.shields.io/badge/-yardenporat-E1306C?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/yardenporat/" alt="Instagram Badge">
-</a>
+![Yarden Porat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yardenporat&show_icons=true&theme=tokyonight)
 
 <br>
 
@@ -25,19 +23,15 @@ I am a passionate and enthusiastic self-taught web developer.
 ```javascript
 const yardenporat = {
   education: ['MBA - Tel Aviv University', 'BA - IDC Herzliya'],
-  otherAlias: 'Full Stack Developer',
-  FrontEnd: ['Javascript', 'TypeScript', 'React', 'HTML', 'CSS'],
-  BackEnd: ['Node.js', 'Python', 'Bash'],
+  languages: ['TypeScript', 'Javascript', 'Python', 'Bash Scripts'],
+  frameworks: ['Node.js', 'React.js', 'Next.js'],
+  css: [ 'HTML', 'CSS', 'Sass', 'Stylable'],
+  tests: ['playwright', 'mocha', 'chai', 'sinon'],
   DBs: ['MongoDB', 'SQL'],
   tools: [
-    'React',
-    'Redux',
-    'TypeScript',
     'Git',
-    'Sass',
     'Wordpress',
-    'Bootstrap',
-    'Figma',
+    'Electron',    
   ],
 };
 ```
