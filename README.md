@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Yarden Porat.</a></strong>
+<h1 align="left"><img src="https://raw.githubusercontent.com/yardenporat/yardenporat/master/assets/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://sidbelbase.me">Yarden Porat.</a></strong>
 </h1>
 
 <h3 align="left">
@@ -11,6 +11,11 @@ I am a passionate and enthusiastic self-taught web developer.
 
 ![Yarden Porat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yardenporat&show_icons=true&theme=tokyonight)
 
+| Project                                                          | Demo (clickable)                                                                                                                                                                                                              |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Selectors Translated**: CSS selector translator and visualizer | [![image](https://raw.githubusercontent.com/yardenporat/yardenporat/master/assets/selectors-translated.png)](https://yardenporat.github.io/selector-translator/?s=body%2520%7E%2520main%2520.child%2520%253Anth-child%282%29) |
+|                                                                  |
+
 <br>
 
 <br>
@@ -20,19 +25,18 @@ I am a passionate and enthusiastic self-taught web developer.
     <strong>MORE ABOUT ME</strong>
   </summary>
 
-```javascript
+```ts
 const yardenporat = {
-  education: ['MBA - Tel Aviv University', 'BA - IDC Herzliya'],
-  languages: ['TypeScript', 'Javascript', 'Python', 'Bash Scripts'],
-  frameworks: ['Node.js', 'React.js', 'Next.js'],
-  css: ['CSS', 'Sass', 'Stylable'],
-  tests: ['playwright', 'mocha', 'chai', 'sinon'],
-  DBs: ['MongoDB', 'SQL'],
-  tools: [
-    'Git',
-    'Wordpress',
-    'Electron',    
+  education: [
+    "BA - Reichman University (IDC Herzliya)",
+    "MBA - Tel Aviv University",
   ],
+  languages: ["TypeScript", "Javascript", "Python", "Bash Scripts"],
+  frameworks: ["Node.js", "React.js", "Next.js"],
+  css: ["CSS", "Sass", "Stylable"],
+  tests: ["playwright", "mocha", "chai", "sinon"],
+  DBs: ["MongoDB", "SQL"],
+  tools: ["Git", "Wordpress", "Electron"],
 };
 ```
 
