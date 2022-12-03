@@ -19,19 +19,26 @@ I am a passionate and enthusiastic self-taught web developer.
   </summary>
 
 Click on the image to view the project:
-[![image](https://raw.githubusercontent.com/yardenporat/yardenporat/master/assets/selectors-translated.png)](https://yardenporat.github.io/selector-translator/?s=body%2520%7E%2520main%2520.child%2520%253Anth-child%282%29)
+
+<div style="width: 100%; display: grid; place-items: center;">
+  <img src="./assets/selectors-translated.png" style="max-width: 300px;">
+</div>
 
 </details>
 <details>
   <summary>
      <strong>LinkedIn Frame Generator</strong>: Create custom LinkedIn avatar frames
-
   </summary>
-
+<br>
 Not long ago LinkedIn added a feature that allows adding a frame to your profile picture, letting everyone know if your are #hiring or #opentowork.
 
 Now, you can create your own custom frames, adding a little more character to your LinkedIn profile.
-![image](./assets/linkedin-frame-generator.png)
+
+<div style="width: 100%; display: grid; place-items: center;">
+  <img src="./assets/linkedin-frame-generator.png" style="max-width: 300px;">
+</div>
+
+<!-- ![image](./assets/linkedin-frame-generator.png) -->
 
 ### [Link to LinkedIn custom frame generator](https://yardenporat.github.io/linkedin-frame/)
 
