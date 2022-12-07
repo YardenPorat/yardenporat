@@ -38,11 +38,68 @@ Now, you can create your own custom frames, adding a little more character to yo
   <img src="./assets/linkedin-frame-generator.png" style="max-width: 300px;">
 </div>
 
-<!-- ![image](./assets/linkedin-frame-generator.png) -->
+</details>
+<details>
+  <summary>
+     <strong>ESLint plugin: validate declared imports</strong>: validate typescripts globally declared modules
+  </summary>
+<br>
 
-### [Link to LinkedIn custom frame generator](https://yardenporat.github.io/linkedin-frame/)
+[![test](https://github.com/yardenporat/eslint-plugin-validate-declared-imports/actions/workflows/test.yml/badge.svg)](https://github.com/yardenporat/eslint-plugin-validate-declared-imports/actions/workflows/test.yml)
+[![npm](https://img.shields.io/npm/v/eslint-plugin-validate-declared-imports)](https://www.npmjs.com/package/eslint-plugin-validate-declared-imports)
+
+When you declare modules with typescript, filepaths are not validated to be correct.
+
+Example:
+
+```ts
+declare module "*.module.css" {
+  const classes: { [key: string]: string };
+  export default classes;
+}
+```
+
+This will not throw an error, even though path is incorrect:
+
+```ts
+import styles from "asdasdasdasdasd.module.css";
+```
+
+### Usage
+
+Add `validate-declared-imports` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+
+```json
+{
+  "plugins": ["validate-declared-imports"]
+}
+```
+
+Then configure the rules you want to use under the rules section.
+
+```json
+{
+  "rules": {
+    "validate-declared-imports/no-unresolved-declared-imports": [
+      "error",
+      {
+        "fileExtensions": [
+          // Asset files: png, jpeg, svg...
+          ".jpg",
+          // Style files
+          ".module.css", // CSS Modules
+          ".module.scss", // SCSS Modules
+          ".module.less", // Less Modules
+          ".st.css" // Stylable files
+        ]
+      }
+    ]
+  }
+}
+```
 
 </details>
+
 <br>
 
 <details>
