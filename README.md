@@ -101,6 +101,26 @@ Then configure the rules you want to use under the rules section.
 ```
 
 </details>
+<details>
+  <summary>
+     <strong>LeanKit to GitHub: chrome extension</strong>: Add links to KanBan cards
+  </summary>
+<br>
+
+[Repository link](https://github.com/YardenPorat/eslint-plugin-validate-declared-imports)
+
+[PlanView AgilePlace \ PlanView LeanKit](https://www.planview.com/products-solutions/products/agileplace/)
+
+A tiny chrome extension that adds GitHub links to cards which references github issue or pull request.
+
+<p align="center">
+  <img src="./assets/leankit-github.png" alt="GitHub links on a card" >
+</p>
+You can customize the board's title which you want to focus on, and your favorite GitHub repository which you want to go to
+
+<p align="center">
+  <img src="./assets/leankit-github-customize.png" alt="customization options" >
+</p>
 
 <br>
 
