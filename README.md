@@ -20,9 +20,9 @@ I am a passionate and enthusiastic self-taught web developer.
 
 Click on the image to view the project:
 
-<div style="width: 100%; display: grid; place-items: center;">
-  <img src="./assets/selectors-translated.png" style="max-width: 300px;">
-</div>
+<p align="center">
+  <img src="./assets/selectors-translated.png" alt="Selectors Translated" width="300">
+</p>
 
 </details>
 <details>
@@ -35,7 +35,7 @@ Not long ago LinkedIn added a feature that allows adding a frame to your profile
 Now, you can create your own custom frames, adding a little more character to your LinkedIn profile.
 
 <p align="center">
-  <img src="./assets/linkedin-frame-generator.png" alt="Size Limit CLI" width="300">
+  <img src="./assets/linkedin-frame-generator.png" alt="LinkedIn Frame Generator" width="300">
 </p>
 
 </details>
