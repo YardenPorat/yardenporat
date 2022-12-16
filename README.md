@@ -45,6 +45,8 @@ Now, you can create your own custom frames, adding a little more character to yo
   </summary>
 <br>
 
+[Repository link](https://github.com/YardenPorat/eslint-plugin-validate-declared-imports)
+
 [![test](https://github.com/yardenporat/eslint-plugin-validate-declared-imports/actions/workflows/test.yml/badge.svg)](https://github.com/yardenporat/eslint-plugin-validate-declared-imports/actions/workflows/test.yml)
 [![npm](https://img.shields.io/npm/v/eslint-plugin-validate-declared-imports)](https://www.npmjs.com/package/eslint-plugin-validate-declared-imports)
 
