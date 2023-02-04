@@ -21,7 +21,9 @@ I am a passionate and enthusiastic self-taught web developer.
 Click on the image to view the project:
 
 <p align="center">
-  <img src="./assets/selectors-translated.png" alt="Selectors Translated" width="300">
+  <a href="https://yardenporat.github.io/selector-translator/">
+    <img src="./assets/selectors-translated.png" alt="Selectors Translated" width="300">
+  </a>
 </p>
 
 </details>
