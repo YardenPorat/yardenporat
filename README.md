@@ -15,10 +15,27 @@ I am a passionate and enthusiastic self-taught web developer.
 
 <details>
   <summary>
+    <strong>Contactless WhatsApp Messenger</strong>: Send whatsapp messages without adding people to your contact
+  </summary>
+
+
+Click on the image to view the project:
+<p align="center">
+  <a href="https://yardenporat.github.io/contactless-whatsapp/">
+    <img src="https://github.com/YardenPorat/contactless-whatsapp/raw/main/public/logo.png" alt="Contactless WhatsApp Messenger" width="300">
+  </a>
+</p>
+    
+[Go to repository](https://github.com/YardenPorat/contactless-whatsapp)
+
+</details>
+
+<details>
+  <summary>
      <strong>Selectors Translated</strong>: CSS selector translator and visualizer
   </summary>
 
-Click on the image to view the project:
+Click on the image to view the application:
 
 <p align="center">
   <a href="https://yardenporat.github.io/selector-translator/">
